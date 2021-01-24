@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pl.CarpeDiemTravel.CarpeDiemTravelApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.102 s - in pl.CarpeDiemTravel.CarpeDiemTravelApplicationTests

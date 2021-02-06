@@ -4,21 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea54ff53-3a1f-4468-833c-4107680678a6" name="Default Changelist" comment="" />
+    <list default="true" id="ea54ff53-3a1f-4468-833c-4107680678a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpeDiemTravel/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/CarpeDiemTravel/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpeDiemTravel/CarpeDiemTravel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CarpeDiemTravel/CarpeDiemTravel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpeDiemTravel/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CarpeDiemTravel/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpeDiemTravel/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CarpeDiemTravel/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="usePluginRegistry" value="true" />
-      </MavenGeneralSettings>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML Properties File" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Rest" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1nTL9Rn5ud6JGiuBJeP3LouTwLY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,14 +42,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring_music_scorer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../programCW" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.CarpeDiemTravel.entity" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="CarpeDiemTravelApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -53,6 +73,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarpeDiemTravelApplication" />
+        <item itemvalue="Application.CarpeDiemTravelApplication" />
         <item itemvalue="Application.CarpeDiemTravelApplication" />
       </list>
     </recent_temporary>
